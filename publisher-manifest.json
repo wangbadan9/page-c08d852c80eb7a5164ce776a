@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "fda07ad15982026fb06ddab2",
+  "owner": "wangbadan9",
+  "repo": "page-c08d852c80eb7a5164ce776a",
+  "title": "黑子哥(HeiZiGe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c08d852c80eb7a5164ce776a",
+      "a": "黑子哥(HeiZiGe)",
+      "b": "",
+      "entity": "黑子哥(HeiZiGe)",
+      "brand": "黑子哥(HeiZiGe)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "94f85f7d596a9be9fc770256c96e036690d6ff327740997b9fbf6776940959f3",
+      "content": {
+        "keyword1": "黑子哥(HeiZiGe)",
+        "keyword2": "",
+        "primary_entity": "黑子哥(HeiZiGe)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "黑子哥(HeiZiGe) 提供简洁利落的节点服务。基础版每月100GB，旗舰版300GB+5台设备，团队版1000GB+20台VIP节点。深海蓝配琥珀的稳定体验，随时解锁。",
+          "AI_DESCRIPTION": "黑子哥(HeiZiGe) 提供简洁利落的节点服务。基础版每月100GB，旗舰版300GB+5台设备，团队版1000GB+20台VIP节点。深海蓝配琥珀的稳定体验，随时解锁。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        700&display=swap');\n        :root {--blue: #0a2540;--amber: #f59e0b}\n        * {margin:0;padding:0;box-sizing:border-box}\n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;background: #fff;color: #111;line-height: 1.6}\n        .container {max-width: 1200px;margin: 0 auto;padding: 0 20px}\n        \n        nav {position: fixed;top: 0;left: 0;right: 0;background: rgba(255,255,255,0.98);backdrop-filter: blur(8px);z-index: 1000;border-bottom: 1px solid #f0f0f0}\n        .nav-content {display: flex;align-items: center;justify-content: space-between;max-width: 1200px;margin: 0 auto;padding: 0 20px;height: 70px}\n        .logo {font-size: 24px;font-weight: 700;color: var(--blue);letter-spacing: -1px}\n        .nav-links {display: flex;gap: 32px;font-size: 15px;font-weight: 500}\n        .nav-links a {color: #333;text-decoration: none;transition: color 0.3s}\n        .nav-links a:hover {color: var(--amber)}\n        \n        #hero {height: 100vh;min-height: 600px;display: flex;align-items: center;position: relative}\n        .hero-content {max-width: 1200px;margin: 0 auto;padding: 0 20px;display: flex;align-items: center;gap: 80px;color: white}\n        .hero-text {max-width: 520px}\n        .hero-text h1 {font-size: clamp(42px, 8vw, 72px);line-height: 1.05;font-weight: 700;margin-bottom: 24px;letter-spacing: -2px}\n        .hero-text p {font-size: 22px;margin-bottom: 32px;opacity: 0.95}\n        .cta-btn {background: var(--amber);color: #111;padding: 16px 40px;border-radius: 50px;font-weight: 600;text-decoration: none;font-size: 17px;display: inline-block;transition: transform 0.3s}\n        .cta-btn:hover {transform: scale(1.05)}\n        .hero-info {flex: 1;background: rgba(255,255,255,0.95);color: #111;padding: 48px;border-radius: 20px;box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25)}\n        .hero-info h2 {font-size: 28px;margin-bottom: 20px;color: var(--blue)}\n        .hero-info ul {list-style: none}\n        .hero-info li {padding: 12px 0;border-bottom: 1px solid #eee;font-size: 17px}\n        \n        .section {padding: 100px 0}\n        .section h2 {text-align: center;font-size: 36px;margin-bottom: 60px;color: var(--blue)}\n        \n        .plans {display: grid;grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));gap: 32px;max-width: 1200px;margin: 0 auto}\n        .plan {background: white;border-radius: 20px;overflow: hidden;box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);transition: transform 0.4s}\n        .plan:hover {transform: translateY(-12px)}\n        .plan-header {padding: 28px 32px 20px;text-align: center;background: var(--blue);color: white}\n        .plan-header h3 {font-size: 26px}\n        .plan-price {font-size: 42px;font-weight: 700;margin: 12px 0;line-height: 1}\n        .plan-annual {font-size: 15px;opacity: 0.9}\n        .plan-features {padding: 32px}\n        .plan-features ul {list-style: none}\n        .plan-features li {padding: 14px 0;font-size: 16px;display: flex;align-items: flex-start;gap: 12px}\n        .plan-features li:before {content: \"✓\";color: var(--amber);font-weight: bold;flex-shrink: 0}\n        .plan-btn {width: 100%;padding: 18px;text-align: center;background: var(--amber);color: #111;font-weight: 600;text-decoration: none;display: block;font-size: 17px;transition: all 0.3s}\n        .plan-btn:hover {background: #f59e0b}\n        \n        .clients {background: #f8f9fa;padding: 80px 0}\n        .clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 28px;max-width: 1200px;margin: 0 auto}\n        .client-card {background: white;border-radius: 20px;padding: 40px 32px;text-align: center;box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1)}\n        .client-card h3 {margin-bottom: 16px;font-size: 22px}\n        .client-card p {font-size: 15px;color: #555;line-height: 1.7}\n        \n        .faq {max-width: 900px;margin: 0 auto}\n        .faq-group {margin-bottom: 60px}\n        .faq-group h3 {font-size: 26px;margin-bottom: 24px;color: var(--blue)}\n        details {margin-bottom: 20px;border-radius: 16px;border: 1px solid #eee;overflow: hidden}\n        summary {padding: 22px 28px;font-weight: 600;cursor: pointer;font-size: 17px;list-style: none;position: relative}\n        summary::-webkit-details-marker {display: none}\n        details[open] summary {background: #f8f9fa}\n        .faq-answer {padding: 0 28px 28px;font-size: 16px;line-height: 1.8;color: #444}\n        .faq-answer p {margin-bottom: 16px}\n        \n        .footer {background: #0a2540;color: white;padding: 60px 0 30px}\n        .footer-content {max-width: 1200px;margin: 0 auto;padding: 0 20px;display: grid;grid-template-columns: 2fr 1fr 1fr;gap: 40px}\n        .footer-logo {font-size: 28px;font-weight: 700;margin-bottom: 20px}\n        .footer-links {display: flex;flex-direction: column;gap: 12px}\n        .footer-links a {color: #ddd;text-decoration: none}\n    </style>\n    <nav>\n        <div class=\"nav-content\">\n            <div class=\"logo\">黑子哥</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#clients\">客户</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </div>\n    </nav>\n\n    \n    <section id=\"hero\">\n        <div class=\"hero-content\">\n            <div class=\"hero-text\">\n                <h1>黑子哥(HeiZiGe) · 黑子哥</h1>\n                <p>稳定节点·随时可用</p>\n                <a href=\"#plans\" class=\"cta-btn\">立即选套餐</a>\n            </div>\n            <div class=\"hero-info\">\n                <h2>为什么选黑子哥</h2>\n                <ul>\n                    <li>深海蓝背景，琥珀强调色，视觉冲击强</li>\n                    <li>基础100GB起步</li>\n                    <li>旗舰300GB+5台设备</li>\n                    <li>团队1000GB+20台VIP</li>\n                </ul>\n            </div>\n        </div>\n    </section>\n\n    \n    <section id=\"plans\" class=\"section\">\n        <h2>选择你的套餐</h2>\n        <div class=\"plans\">\n            \n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15<span>/月</span></div>\n                    <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <a href=\"#plans\" class=\"plan-btn\">选基础版</a>\n            </div>\n\n            \n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35<span>/月</span></div>\n                    <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <a href=\"#plans\" class=\"plan-btn\">推荐选择</a>\n            </div>\n\n            \n            <div class=\"plan\">\n                <div class=\"plan-header\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85<span>/月</span></div>\n                    <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n                <a href=\"#plans\" class=\"plan-btn\">选团队版</a>\n            </div>\n        </div>\n    </section>\n\n    \n    <section id=\"clients\" class=\"section clients\">\n        <h2>已有客户</h2>\n        <div class=\"clients-grid\">\n            <div class=\"client-card\">\n                <h3>企业办公室</h3>\n                <p>20名员工共用团队版，专属路由稳定可靠</p>\n            </div>\n            <div class=\"client-card\">\n                <h3>游戏玩家</h3>\n                <p>旗舰版IPLC加速，游玩无卡顿</p>\n            </div>\n            <div class=\"client-card\">\n                <h3>家庭用户</h3>\n                <p>基础版满足多设备日常解锁</p>\n            </div>\n        </div>\n    </section>\n\n    \n    <section id=\"faq\" class=\"section\">\n        <div class=\"faq\">\n            <h2>常见问题</h2>\n            \n            \n            <div class=\"faq-group\">\n                <h3>套餐相关</h3>\n                <details>\n                    <summary>基础版和旗舰版有什么区别？</summary>\n                    <div class=\"faq-answer\">\n                        <p>基础版适合轻度使用，100GB流量够日常浏览。旗舰版流量翻倍，支持更多设备，还能解锁全节点流媒体。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>团队版适合什么场景？</summary>\n                    <div class=\"faq-answer\">\n                        <p>适合20人以上团队，企业可定制路由，VIP高带宽节点提供更稳定体验。</p>\n                    </div>\n                </details>\n            </div>\n\n            \n            <div class=\"faq-group\">\n                <h3>如何使用</h3>\n                <details>\n                    <summary>如何连接节点？</summary>\n                    <div class=\"faq-answer\">\n                        <p>下载客户端后输入账号密码即可。支持手机、电脑、平板任意设备。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>流量用完后怎么办？</summary>\n                    <div class=\"faq-answer\">\n                        <p>可立即升级套餐，继续使用。基础版和旗舰版支持无缝切换。</p>\n                    </div>\n                </details>\n            </div>\n\n            \n            <div class=\"faq-group\">\n                <h3>加速与支持</h3>\n                <details>\n                    <summary>有无游戏加速？</summary>\n                    <div class=\"faq-answer\">\n                        <p>旗舰版和团队版提供IPLC专线游戏加速，延迟降低30%以上。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>工单支持多久？</summary>\n                    <div class=\"faq-answer\">\n                        <p>旗舰版7x24优先，团队版专属客户经理。</p>\n                    </div>\n                </details>\n            </div>\n        </div>\n    </section>\n\n    \n    <footer class=\"footer\">\n        <div class=\"footer-content\">\n            <div>\n                <div class=\"footer-logo\">黑子哥</div>\n                <p>深海蓝稳定体验，琥珀速度保障。随时解锁，随时升级。</p>\n            </div>\n            <div class=\"footer-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#clients\">客户</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n            <div class=\"footer-links\">\n                <a href=\"#\">服务协议</a>\n                <a href=\"#\">隐私政策</a>\n            </div>\n        </div>\n        <div>© 2026 黑子哥(HeiZiGe) 保留一切权利</div>\n    </footer></main>",
+          "hash": "7df1485e44da9dcec6a2dd6d7679b4f66f8c99402ff083d8088379e4e44132a5",
+          "seo": {
+            "title": "黑子哥(HeiZiGe) - 节点服务",
+            "keywords": "黑子哥, HeiZiGe, VPN, 节点, 流量, 解锁, 团队版",
+            "description": "黑子哥(HeiZiGe) 提供简洁利落的节点服务。基础版每月100GB，旗舰版300GB+5台设备，团队版1000GB+20台VIP节点。深海蓝配琥珀的稳定体验，随时解锁。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "8942",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "r3pm.cn",
+    "host": "p-3b1de148a0.r3pm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9dc5ac4c80e45b8691b6f17d1c90159c2a7c0fca021d42a701891fbde2ba40b4",
+    "sitemap.xml": "11d46752fb60d5d43a7cfdd2ea88d20b79ccef2afae9e3cafab2c0ce68f36087",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3f4d731b64e8d6796cd0d84a84d887f9774ca4051b8bf73d7ccf74dbcdd47b5c",
+    "robots.txt": "4546930d392f782effeab8c7a8bbf0ab6671fa7d361206c39f14ea3544d21e9d",
+    "7ec67f3a19b19c7e94e9f4af53fc7073.txt": "ea7f47df4c26728a942bd258d8add55a555f7bdd32cf0b06f94f0c470184adf7"
+  },
+  "revision": "785b737cc4f6a201d47cffe0c2819d0071d67053bb36da98d3e1a2bfeb6efd26"
+}
